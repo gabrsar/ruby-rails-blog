@@ -1,24 +1,12 @@
-# README
+# Ruby on Rails' begginers tutorial. Creating a simple Blog.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I'm doing this tutorial, because I'm a 'long term' Java developer and wish to learn new things and expand my horizons. I
+just accomplished a few things and learned a lot. =)
 
-Things you may want to cover:
 
-* Ruby version
+Rails tutorial: http://guides.rubyonrails.org/getting_started.html
 
-* System dependencies
+## Acknowledgement:
 
-* Configuration
+@adrianomitre and @flaviomori: Thanks guys for the knowledge exchange, patience and guidance with this new Padawan. ;)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
