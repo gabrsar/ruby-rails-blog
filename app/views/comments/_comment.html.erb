@@ -1,7 +1,15 @@
 <p>
-	<strong>Commenter:</strong><%= comment.commenter %>
-</p>
+	<span>
+		<strong><%= comment.commenter %></strong>
+	</span>
 
-<p>
-	<strong>Comment:</strong><%= comment.body %>
+	<span>
+		<%= comment.body %>
+ 	</span>
+
+ 	<span>
+ 		<%= link_to "Destroy Comment", 
+ 		[comment.article, comment], 
+ 		method: :delete, 
+ 		data: {comfirm: 'Are you sure bro?' } %>
 </p>
